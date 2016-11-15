@@ -77,7 +77,7 @@ Tools: Eclipse, PHPStorm, Netweaver, Git, Visual Studio
 
 
 
-05/2010 – 12/2010  __CB HELPLINE__
+05/2010 – 12/2010  __CB HELPLINE__  
 Vertragsmanagement/CRM-System  
 Vertragsmanagement- und CRM/Akquise Software (Web)  
 Systemanalytiker/Webentwickler  
