@@ -70,7 +70,6 @@ Programmierung: Perl, Oracle, MySQL
 11/2010 - 09/2015 __SAP AG__  
 Entwicklung Tools & Web  
 System- und Web Programmierung   
-
 Programmierung: C#, Perl, PHP, C++, Java, JavaScript, ABAP  
 Web: PHP 5.6, JQuery, Bootstrap, HTML5, CSS, Apache, SOAP  
 Datenbanken: DB2, MySQL, Oracle, MsSQL  
@@ -79,10 +78,10 @@ Tools: Eclipse, PHPStorm, Netweaver, Git, Visual Studio
 
 
 05/2010 – 12/2010  __CB HELPLINE__
-Projekttitel: Vertragsmanagement/CRM-System
-Beschreibung: Vertragsmanagement- und CRM/Akquise Software (Web)
-Rolle: Systemanalytiker/Webentwickler
-Tätigkeiten: Planung, Entwicklung, Koordination, Optimierung von Webauftritt und Aquisesoftware inkl. Zugriff über Webservices.
+Vertragsmanagement/CRM-System  
+Vertragsmanagement- und CRM/Akquise Software (Web)  
+Systemanalytiker/Webentwickler  
+Planung, Entwicklung, Koordination, Optimierung von Webauftritt und Aquisesoftware inkl. Zugriff über Webservices.  
 Programmierung: C#, ASP.Net, HTML, CSS, SQL-Server, IIS, JavaScript, Bootstrap
 
 
@@ -91,13 +90,13 @@ Programmierung: C#, ASP.Net, HTML, CSS, SQL-Server, IIS, JavaScript, Bootstrap
 01/2010 – 05/2010 __Vattenfall Europe AG__  
 Refactoring/Performanceoptimierung  
 Beratung über Methoden und Konzepte der Systemoptimierung eines Systems zur Formularaufbereitung im Bereich des Formularmanagements. Design und Refactoring von Systemkomponenten mit dem Ziel der Performance-Optimierung  
-Systemanalytiker, Softwareentwickler
-Analyse, Design und Implementierung
+Systemanalytiker, Softwareentwickler  
+Analyse, Design und Implementierung  
 Technologien: .NET, C#, Perl, SQL-Server
 
 
 
-01/2009 – 12/2009 __Vattenfall Europe AG__   Elektronische Langzeitarchivierung
+01/2009 – 12/2009 __Vattenfall Europe AG__   Elektronische Langzeitarchivierung  
 Konzeption, Planung und Entwicklung eines Archiv-Systems inkl. PDF/A und Signierung.  
 Systemanalytiker, Softwareentwickler  
 Analyse, Design und Implementierung  
@@ -106,7 +105,7 @@ Technologien: Perl, Pdf/A, Archiv, Compart Docbridge Mill, Java, C++
 
 
 01/2008 – 12/2008 __Vattenfall Europe AG__  
-Elektronische Onlinerechnung
+Elektronische Onlinerechnung  
 Konzeption, Planung und Entwicklung eines Systems welches den Kunden des Stromdienstleisters Vattenfall Europe eine Onlinerechnung per Internet zur Verfügung stellt.  
 Systemanalytiker, Softwareentwickler  
 Konzeption, Planung und Entwicklung  
@@ -126,10 +125,10 @@ Technologien: C#, Perl, Pdf/A, C++ (Visual Studio 6), SQL-Server, PReS
 
 07/2006 – 12/2006	 __Hamburger Sparkasse__  
 Fremdwährungssystem  
-Entwicklung/Erweiterung eines Fremdwährungssystems
-Systemanalytiker/Softwareentwickler
-Analyse, Design und Implementierung
-Technologien: Perl. Opics, Oracle
+Entwicklung/Erweiterung eines Fremdwährungssystems  
+Systemanalytiker/Softwareentwickler  
+Analyse, Design und Implementierung  
+Technologien: Perl. Opics, Oracle  
 
 
 
@@ -146,25 +145,25 @@ Dokumentenmanagement
 Design/Implementierung des Outputmanagement-Systems für das Dokumentenmanagement der HEW AG  
 Systemanalytiker/Softwareentwickler  
 Analyse, Design und Implementierung  
-Technologien: C#, Perl, PReS, SQL-Server
+Technologien: C#, Perl, PReS, SQL-Server  
 
 
 
 10/2001 – 01/2002	__Intershop Communications AG__  
 Datawarehouse (E-Commerce)  
-Design/Implementierung eines Datawarehouse-Systems
-Systemanalytiker/Datenbankprogrammierer
-Analyse, Design und Implementierung
-Technologien: Oracle, C++
+Design/Implementierung eines Datawarehouse-Systems  
+Systemanalytiker/Datenbankprogrammierer  
+Analyse, Design und Implementierung  
+Technologien: Oracle, C++  
 
 
 
 08/1998 – 10/2001	__IBW__  
 Konstruktion/ Entwicklung Schiffbau  
 Visualisierung  
-Schiffsrumpf/3D-Konstruktion, erstellen der 3D-FE Berechnungsgrundlagen für den GL, Planung/3D-Koordination von Rohrleitungssystemen kompletter Schiffsmaschinenräume für die Meyer Werft GmbH, Design/Programmierung von Systemprogrammen,
+Schiffsrumpf/3D-Konstruktion, erstellen der 3D-Finite Elemente Berechnungsgrundlagen für den Germanisch Lloyd, Planung/3D-Koordination von Rohrleitungssystemen kompletter Schiffsmaschinenräume für die Meyer Werft GmbH, Design/Programmierung von Systemprogrammen.  
 Softwareentwickler/System-Administrator/3D-Konstrukteur/CAD  
-Analyse, Konzeption, Projektunterstützung, Prozessbegleitung
+Analyse, Konzeption, Projektunterstützung, Prozessbegleitung  
 Technologien: Linux, Python, Prochem-C, CAD
 
 
