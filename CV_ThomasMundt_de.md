@@ -1,4 +1,4 @@
-### Softwareentwickler/Systemanalytiker  
+## Softwareentwickler/Systemanalytiker  
 Thomas Mundt  
 Bültenkoppel 44  
 22399 Hamburg  
@@ -6,8 +6,8 @@ Bültenkoppel 44
 mundt_thomas@yahoo.de  
 
 
-#### IT Skills  
-##### Programmierung  
+### IT Skills  
+#### Programmierung  
 * .NET C#, Asp.Net                 
 * Java, Java Servlets, JSP, JDBC
 * Skriptsprachen: Python, Perl, Bash    
@@ -15,7 +15,7 @@ mundt_thomas@yahoo.de
 * C++
 
 
-##### Datenbanken  
+#### Datenbanken  
 * Cassandra  	
 * MongoDB  
 * MariaDB  
@@ -23,17 +23,17 @@ mundt_thomas@yahoo.de
 * SQLServer  
 * Postgresql
 
-#### DevOps  
+### DevOps  
 * Docker
 * Vagrant
 
-##### Betriebssysteme
+#### Betriebssysteme
 * Linux  Redhat, Ubuntu
 * Windows 95/98, NT4, 2000, XP, 7, 8 	
 * Max OS X                            
 
 
-##### Sonstiges  
+#### Sonstiges  
 * Git, SVN, CVS  
 * Apache, IIS, NginX  
 * Eclipse  
@@ -41,7 +41,7 @@ mundt_thomas@yahoo.de
 * Bootstrap  
 
 
-#### Ausbildung  
+### Ausbildung  
 03/07 – 12/09	Fern-Fachhochschule Darmstadt (Fernstudium Informatik)  
 08/04 – 05/06	Fern-Fachhochschule Hagen      (Fernstudium Informatik)  
 1995 – 1997	  Staatlich Gepr. Techniker, Fachrichtung Maschinentechnik Flensburg  
@@ -49,7 +49,7 @@ mundt_thomas@yahoo.de
 
 
 
-#### Projektreferenz
+### Projektreferenz
 01/2016 - heute  __IBM AG__  
 
 10/2015 - 12/2015 __Condor Flugdienst GmbH__  
@@ -157,7 +157,7 @@ Technologien: Linux, Python, Prochem-C, CAD
 
 
 
-#### Beruflicher Werdegang
+### Beruflicher Werdegang
 01/16 – heute	IBM AG, Developer / Performance Analyst (NoSQL, Python, Linux)  
 10/15 – 12/15	Condor Flugdienst GmbH   
 11/10 – 10/15	SAP AG, Systemprogrammierer / Webentwickler (C++, Perl, PHP, ABAP)  
@@ -176,7 +176,7 @@ Systemingenieur/System-Administrator
 
 
 
-#### Weiterbildung – Kurse, Seminare, Workshops
+### Weiterbildung – Kurse, Seminare, Workshops
 
 06/2015	C# Asp.Net  
 05/2015	C++ Objektorientierung und Design Patterns (Linux Hotel)  
