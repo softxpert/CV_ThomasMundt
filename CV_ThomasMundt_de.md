@@ -27,6 +27,7 @@ mundt_thomas@yahoo.de
 
 #### DevOps  
 * Ansible
+* Chef
 * Puppet
 * Jenkins
 * Docker
