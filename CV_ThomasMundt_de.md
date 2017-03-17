@@ -170,7 +170,7 @@ Technologien: Linux, Python, Prochem-C, CAD
 
 
 ### Beruflicher Werdegang
-02/17 - heute Nexinto DevOps /Developer (Puppet, Linux, Bash, Git)
+02/17 - heute Nexinto DevOps /Developer (Puppet, Linux, Bash, Git)  
 01/16 – 12/16	IBM AG, Developer / Performance Analyst (NoSQL, Python, Linux)  
 10/15 – 12/15	Condor Flugdienst GmbH   
 11/10 – 10/15	SAP AG, Systemprogrammierer / Webentwickler (C++, Perl, PHP, ABAP)  
