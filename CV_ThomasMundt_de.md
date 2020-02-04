@@ -45,25 +45,32 @@ Projects
 --------
 
 
-- 10/2019 - 12/2019 [3 Months]
-  :   **[Join GmbH][join]** - Cloud Consultant (Azure / Kubernetes)
 
-   - VM setup using `Terraform` and system configuration using `Ansible`.
-   - `Kubernetes` support for a Content Management System.
-   - Azure Kubernetes Service (`AKS`) setup.
-   - Development of `Helm Charts` for the Deployments und Services.
-   - Build pipeline deployments with `Azure DevOps`.
-
-
-
-
+07/2017 - 02/2020  __Hermes Germany GmbH__
+DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
+Projekts: Cloud Migration (Open Telekom Cloud), Platform Team
+Os: Linux (CentOS)
+Programmierung: Python
+DevOps: Terraform, Ansible, Ansible Tower, Jenkins, Gitlab-CI, Git, Nexus, Jira
+Monitoring: Prometheus, Elasticsearch (ELK)
+Container: Kubernetes, Helm, Openshift, Docker Swarm
+Cloud: Open Telekom Cloud (Openstack), AWS
 
 
 
+01/2017 - 06/2016  __Nexinto GmbH__
+DevOps Engineer
+Infrastrukture As Code with Puppet
+Projekts Media Saturn & Tchibo
+Os: Linux (RHEL)
+Programmierung: Python, Perl, Ruby
+DevOps: Puppet, Jenkins, Git, Vault, Ansible, Vagrant
+Infrastructure: 
 
 
 
-01/2016 - heute  __IBM AG__  
+
+01/2016 - 12/2016  __IBM AG__  
 Softwaredeveloper & Software Performance Analyst  
 IBM Z/OS und Linux.
 Performance Messung und Optimierung für IBM DB2, Apache Cassandra (NoSQL), MongoDB, PostgreSQL, MariaDB.  
@@ -72,10 +79,13 @@ Programmierung: Python, fabric, Tkinter, Node.js, Ant, Shell Scripting (Bash).
 DevOps: KVM-Virtualisation, Docker, Vagrant, Jenkins, Ansible.  
 Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
 
+
+
 10/2015 - 12/2015 __Condor Flugdienst GmbH__  
 Softwareentwickler  
 Barcode Implementierung für Lufthansa NetLine/Ops++ (Cobris)  
 Programmierung: Perl, Oracle, MySQL  
+
 
 
 11/2010 - 09/2015 __SAP AG__  
@@ -94,7 +104,6 @@ Vertragsmanagement- und CRM/Akquise Software (Web)
 Systemanalytiker/Webentwickler  
 Planung, Entwicklung, Koordination, Optimierung von Webauftritt und Aquisesoftware inkl. Zugriff über Webservices.  
 Programmierung: C#, ASP.Net, HTML, CSS, SQL-Server, IIS, JavaScript, Bootstrap
-
 
 
 
