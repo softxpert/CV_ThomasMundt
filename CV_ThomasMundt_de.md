@@ -1,7 +1,11 @@
-## Thomas Mundt
+[Thomas Mundt]
+============
 
+-----------------------------------------------
 Devops, Cloud, Infrastructure As Code
 
+[Contact][moi_contact]
+-----------------------------------------------
  
 +49 (0)176 10365347  
 mundt_thomas@yahoo.de  
@@ -202,3 +206,12 @@ Systemingenieur/System-Administrator
 08/2005	Existenzgründer-Seminar  
 06/2002	GDS Document Systems GmbH - PReS Printer Resource Software  
 03/2002	Microsoft Deutschland GmbH– MCP Visual Basic 6 (Certified Professional Zertifizierung)  
+
+[moi]: https://salimchehab.com
+[moi_contact]: mailto:helloworld@salimchehab.com
+[join]: https://www.join.de
+[eos]: https://www.eos-solutions.com
+[tui]: https://www.tui-tech.com/
+[diba]: https://www.ing.de/
+[hermes]: https://www.hermesworld.com/de/
+[ibm]:https://www.ibm.com/de-de/marketing/entwicklung/
