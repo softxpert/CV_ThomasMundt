@@ -14,7 +14,7 @@ Skills
 
 - **Operating Systems**: `CentOS`, `Ubuntu`, `RedHat`, `SUSE`, `Windows Server`
 
-- **Public Cloud Providers**: `AWS` - Amazon Web Services, `OTC` - Open Telekom Cloud, `Microsoft Azure`
+- **Public Cloud Providers**: `AWS` - Amazon Web Services, `OTC` - Open Telekom Cloud
 
 - **Private Clouds**: `OpenStack`, `OpenShift`
 
@@ -30,7 +30,7 @@ Skills
 
 - **Continuous Integration and Delivery**: `GitLab CI`, `Jenkins`
 
-- **Monitoring and Logging**: `Splunk`, `Prometheus`, `ELK` - Elasticsearch, Logstash, Kibana, `Grafana`, `Graylog`
+- **Monitoring and Logging**: `Prometheus`, `ELK` - Elasticsearch, Logstash, Kibana, `Grafana`
 
 - **Shell Scripting**: `Bash`
 
