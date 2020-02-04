@@ -34,56 +34,35 @@ Skills
 
 - **Shell Scripting**: `Bash`
 
-- **Programming Languages**: `Python`, `C++` , `Java`
+- **Programming Languages**: `Go`, `Python`, `C++` , `Java`, `C#`, `Perl`, `PHP`, `C++`
 
 - **Databases**: `Cassandra`, `MongoDB`, `PostgreSQL`, `MariaDB`
 
-#### Programmierung  
-* .NET C#, Asp.Net                 
-* Java  
-* Python
-* Perl    
-* PHP
-* JavaScript
-* C++
 
 
-#### Datenbanken  
-* Cassandra  	
-* MongoDB  
-* MariaDB  
-* MySQL  
-* SQLServer  
-* Postgresql
 
-#### DevOps  
-* Ansible
-* Chef
-* Puppet
-* Jenkins
-* Docker
-* Vagrant
-* Bash
+Projects
+--------
 
 
-#### Betriebssysteme
-* Linux  Redhat, Ubuntu
-* Windows 	
-* Max OS X                            
+- 10/2019 - 12/2019 [3 Months]
+  :   **[Join GmbH][join]** - Cloud Consultant (Azure / Kubernetes)
 
-
-#### Sonstiges  
-* Git, SVN, CVS  
-* Apache, IIS, NginX  
-* Eclipse  
-* IntelliJ
-* Visual Studio .NET   
-* Bootstrap  
+   - VM setup using `Terraform` and system configuration using `Ansible`.
+   - `Kubernetes` support for a Content Management System.
+   - Azure Kubernetes Service (`AKS`) setup.
+   - Development of `Helm Charts` for the Deployments und Services.
+   - Build pipeline deployments with `Azure DevOps`.
 
 
 
 
-### Projektreferenz
+
+
+
+
+
+
 01/2016 - heute  __IBM AG__  
 Softwaredeveloper & Software Performance Analyst  
 IBM Z/OS und Linux.
@@ -190,47 +169,8 @@ Technologien: Oracle, C++
 
 
 
-08/1998 – 10/2001	__IBW__  
-Konstruktion/ Entwicklung Schiffbau  
-Visualisierung  
-Schiffsrumpf/3D-Konstruktion, erstellen der 3D-Finite Elemente Berechnungsgrundlagen für den Germanisch Lloyd, Planung/3D-Koordination von Rohrleitungssystemen kompletter Schiffsmaschinenräume für die Meyer Werft GmbH, Design/Programmierung von Systemprogrammen.  
-Softwareentwickler/System-Administrator/3D-Konstrukteur/CAD  
-Analyse, Konzeption, Projektunterstützung, Prozessbegleitung  
-Technologien: Linux, Python, Prochem-C, CAD
 
 
-
-### Beruflicher Werdegang
-08/17 - 03/20 Hermes Germany GmbH /DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
-02/17 - 07/17 Nexinto DevOps /Developer (Puppet, Linux, Bash, Git)  
-01/16 – 12/16	IBM AG, Developer / Performance Analyst (NoSQL, Python, Linux)  
-10/15 – 12/15	Condor Flugdienst GmbH   
-11/10 – 10/15	SAP AG, Systemprogrammierer / Webentwickler (C++, Perl, PHP, ABAP)  
-07/06 – heute	Softwareentwickler/Systemanalytiker / selbständig  
-06/03 – 06/05	TSolution IT-Consulting GmbH
-Softwareentwickler  
-06/02 – 05/10	Hamburgische Electricitäts-Werke AG
-(Vattenfall Europe AG)
-Systemsoftwareentwickler  
-10/01 – 01/02	Intershop Communications AG
-Systemanalytiker/Datenbankprogrammierer  
-08/98 – 10/01	IBW, Norderstedt
-Systemsoftwareentwickler/System-Administrator/Konstrukteur  
-1994 – 1995	Flexopack, Harrislee
-Systemingenieur/System-Administrator  
-
-
-
-### Weiterbildung – Kurse, Seminare, Workshops
-
-06/2015	C# Asp.Net  
-05/2015	C++ Objektorientierung und Design Patterns (Linux Hotel)  
-11/2008	SAP Deutschland (Hamburg) - SAPTEC NetWeaver Application Server  
-05/2007	Dialogart - Seminar Selbst- und Zeitmanagement  
-11/2006	Firebrand Training GmbH - Sun Certified Java Programmer (SCJP)  
-08/2005	Existenzgründer-Seminar  
-06/2002	GDS Document Systems GmbH - PReS Printer Resource Software  
-03/2002	Microsoft Deutschland GmbH– MCP Visual Basic 6 (Certified Professional Zertifizierung)  
 
 [moi]: https://salimchehab.com
 [moi_contact]: mailto:mundt_thomas@yahoo.de
