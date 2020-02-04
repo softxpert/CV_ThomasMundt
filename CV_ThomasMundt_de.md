@@ -1,17 +1,42 @@
-[Thomas Mundt]
+Thomas Mundt
 ============
 
 -----------------------------------------------
-Devops, Cloud, Infrastructure As Code
 
 [Contact][moi_contact]
+
 -----------------------------------------------
- 
-+49 (0)176 10365347  
-mundt_thomas@yahoo.de  
 
 
-### Skills  
+
+Skills
+------
+
+- **Operating Systems**: `CentOS`, `Ubuntu`, `RedHat`, `SUSE`, `Windows Server`
+
+- **Public Cloud Providers**: `AWS` - Amazon Web Services, `OTC` - Open Telekom Cloud, `Microsoft Azure`
+
+- **Private Clouds**: `OpenStack`, `OpenShift`
+
+- **Configuration Management**: `Ansible`, `Puppet`
+
+- **Provisioning**: `Terraform`
+
+- **Containers**: `Docker`
+
+- **Orchestration**: `Kubernetes`, `Docker Swarm`
+
+- **Virtual Machines**: `Vagrant`
+
+- **Continuous Integration and Delivery**: `GitLab CI`, `Jenkins`
+
+- **Monitoring and Logging**: `Splunk`, `Prometheus`, `ELK` - Elasticsearch, Logstash, Kibana, `Grafana`, `Graylog`
+
+- **Shell Scripting**: `Bash`
+
+- **Programming Languages**: `Python`, `C++` , `Java`
+
+- **Databases**: `Cassandra`, `MongoDB`, `PostgreSQL`, `MariaDB`
 
 #### Programmierung  
 * .NET C#, Asp.Net                 
@@ -208,7 +233,7 @@ Systemingenieur/System-Administrator
 03/2002	Microsoft Deutschland GmbH– MCP Visual Basic 6 (Certified Professional Zertifizierung)  
 
 [moi]: https://salimchehab.com
-[moi_contact]: mailto:helloworld@salimchehab.com
+[moi_contact]: mailto:mundt_thomas@yahoo.de
 [join]: https://www.join.de
 [eos]: https://www.eos-solutions.com
 [tui]: https://www.tui-tech.com/
