@@ -1,12 +1,14 @@
-## Softwareentwickler/Systemanalytiker
-Thomas Mundt  
-Bültenkoppel 44  
-22399 Hamburg  
+## Thomas Mundt
+
+Devops, Cloud, Infrastructure As Code
+
+ 
 +49 (0)176 10365347  
 mundt_thomas@yahoo.de  
 
 
-### IT Skills  
+### Skills  
+
 #### Programmierung  
 * .NET C#, Asp.Net                 
 * Java  
@@ -170,7 +172,8 @@ Technologien: Linux, Python, Prochem-C, CAD
 
 
 ### Beruflicher Werdegang
-02/17 - heute Nexinto DevOps /Developer (Puppet, Linux, Bash, Git)  
+08/17 - 03/20 Hermes Germany GmbH /DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
+02/17 - 07/17 Nexinto DevOps /Developer (Puppet, Linux, Bash, Git)  
 01/16 – 12/16	IBM AG, Developer / Performance Analyst (NoSQL, Python, Linux)  
 10/15 – 12/15	Condor Flugdienst GmbH   
 11/10 – 10/15	SAP AG, Systemprogrammierer / Webentwickler (C++, Perl, PHP, ABAP)  
@@ -186,14 +189,6 @@ Systemanalytiker/Datenbankprogrammierer
 Systemsoftwareentwickler/System-Administrator/Konstrukteur  
 1994 – 1995	Flexopack, Harrislee
 Systemingenieur/System-Administrator  
-
-
-
-### Ausbildung  
-03/07 – 12/09	Fern-Fachhochschule Darmstadt (Fernstudium Informatik)  
-08/04 – 05/06	Fern-Fachhochschule Hagen      (Fernstudium Informatik)  
-1995 – 1997	  Staatlich Gepr. Techniker, Fachrichtung Maschinentechnik Flensburg  
-1995 – 1997	  Fachhochschulreife Fachschule für Technik und Gestaltung, Flensburg  
 
 
 
