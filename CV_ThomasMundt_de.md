@@ -50,7 +50,7 @@ Projects
 DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
 Projekts: Cloud Migration (Open Telekom Cloud), Platform Team
 Os: Linux (CentOS)
-Programmierung: Python
+Programming: Python
 DevOps: Terraform, Ansible, Ansible Tower, Jenkins, Gitlab-CI, Git, Nexus, Jira
 Monitoring: Prometheus, Elasticsearch (ELK)
 Container: Kubernetes, Helm, Openshift, Docker Swarm
@@ -63,9 +63,8 @@ DevOps Engineer
 Infrastrukture As Code with Puppet
 Projekts Media Saturn & Tchibo
 Os: Linux (RHEL)
-Programmierung: Python, Perl, Ruby
+Programming: Python, Perl, Ruby
 DevOps: Puppet, Jenkins, Git, Vault, Ansible, Vagrant
-Infrastructure: 
 
 
 
@@ -75,7 +74,7 @@ Softwaredeveloper & Software Performance Analyst
 IBM Z/OS und Linux.
 Performance Messung und Optimierung für IBM DB2, Apache Cassandra (NoSQL), MongoDB, PostgreSQL, MariaDB.  
 Os:  Linux (Redhat und SLES).  
-Programmierung: Python, fabric, Tkinter, Node.js, Ant, Shell Scripting (Bash).  
+Programming: Python, fabric, Tkinter, Node.js, Ant, Shell Scripting (Bash).  
 DevOps: KVM-Virtualisation, Docker, Vagrant, Jenkins, Ansible.  
 Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
 
@@ -84,14 +83,14 @@ Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
 10/2015 - 12/2015 __Condor Flugdienst GmbH__  
 Softwareentwickler  
 Barcode Implementierung für Lufthansa NetLine/Ops++ (Cobris)  
-Programmierung: Perl, Oracle, MySQL  
+Programming: Perl, Oracle, MySQL  
 
 
 
 11/2010 - 09/2015 __SAP AG__  
 Entwicklung Tools & Web  
 System- und Web Programmierung   
-Programmierung: C#, Perl, PHP, C++, Java, JavaScript, ABAP  
+Programming: C#, Perl, PHP, C++, Java, JavaScript, ABAP  
 Web: PHP 5.6, JQuery, Bootstrap, HTML5, CSS, Apache, SOAP  
 Datenbanken: DB2, MySQL, Oracle, MsSQL  
 Tools: Eclipse, PHPStorm, Netweaver, Git, Visual Studio  
@@ -103,7 +102,7 @@ Vertragsmanagement/CRM-System
 Vertragsmanagement- und CRM/Akquise Software (Web)  
 Systemanalytiker/Webentwickler  
 Planung, Entwicklung, Koordination, Optimierung von Webauftritt und Aquisesoftware inkl. Zugriff über Webservices.  
-Programmierung: C#, ASP.Net, HTML, CSS, SQL-Server, IIS, JavaScript, Bootstrap
+Programming: C#, ASP.Net, HTML, CSS, SQL-Server, IIS, JavaScript, Bootstrap
 
 
 
