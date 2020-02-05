@@ -45,8 +45,8 @@ Projects
 --------
 
 
-
-07/2017 - 02/2020  __Hermes Germany GmbH__
+```
+07/2017 - 02/2020  __Hermes Germany GmbH__ 
 DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
 Projekts: Cloud Migration (Open Telekom Cloud), Platform Team
 Os: Linux (CentOS)
@@ -55,7 +55,7 @@ DevOps: Terraform, Ansible, Ansible Tower, Jenkins, Gitlab-CI, Git, Nexus, Jira
 Monitoring: Prometheus, Elasticsearch (ELK)
 Container: Kubernetes, Helm, Openshift, Docker Swarm
 Cloud: Open Telekom Cloud (Openstack), AWS
-
+```
 
 
 01/2017 - 06/2016  __Nexinto GmbH__
