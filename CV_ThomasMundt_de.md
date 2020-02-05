@@ -192,10 +192,6 @@ Technologien: Oracle, C++
 ```
 
 
-
-
-
-
 [moi]: https://thomas_mundt@yahoo.de
 [moi_contact]: mailto:mundt_thomas@yahoo.de
 [join]: https://www.join.de
