@@ -47,6 +47,7 @@ Projects
 
 ```
 07/2017 - 02/2020  Hermes Germany GmbH
+
 DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
 Projekts: Cloud Migration (Open Telekom Cloud), Platform Team
 Os: Linux (CentOS)
