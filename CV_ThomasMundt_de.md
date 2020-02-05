@@ -71,7 +71,7 @@ DevOps: Puppet, Jenkins, Git, Vault, Ansible, Vagrant
 
 
 ```
-01/2016 - 12/2016 IBM AG
+01/2016 - 12/2016 IBM AG (Labor Böblingen)
 
 Softwaredeveloper & Software Performance Analyst  
 IBM Z/OS und Linux.
@@ -83,7 +83,7 @@ Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
 ```
 
 ```
-10/2015 - 12/2015 Condor Flugdienst GmbH 
+10/2015 - 12/2015 Condor Flugdienst GmbH (Frankfurt)
 
 Softwareentwickler  
 Barcode Implementierung für Lufthansa NetLine/Ops++ (Cobris)  
@@ -91,7 +91,7 @@ Programming: Perl, Oracle, MySQL
 ```
 
 ```
-11/2010 - 09/2015 SAP AG
+11/2010 - 09/2015 SAP AG (Waldorf)
 
 Entwicklung Tools & Web  
 System- und Web Programmierung   
