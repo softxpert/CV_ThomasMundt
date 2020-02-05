@@ -51,10 +51,10 @@ Projects
 DevOps Engineer Cloud & Linux - Projekt: Cloud Migration
 Projekts: Cloud Migration (Open Telekom Cloud), Platform Team
 Os: Linux (CentOS)
-Programming: Python
-DevOps: Terraform, Ansible, Ansible Tower, Jenkins, Gitlab-CI, Git, Nexus, Jira
+Programming: Python, Go
+DevOps: Terraform, Ansible, Ansible Tower, Jenkins, Gitlab-CI, Git, Nexus, Jira, Harbor, Vault
 Monitoring: Prometheus, Elasticsearch (ELK)
-Container: Kubernetes, Helm, Openshift, Docker Swarm
+Container: Kubernetes, Helm, Openshift, Swarm
 Cloud: Open Telekom Cloud (Openstack), AWS
 ```
 
@@ -74,9 +74,8 @@ DevOps: Puppet, Jenkins, Git, Vault, Ansible, Vagrant
 01/2016 - 12/2016 IBM AG (Labor Böblingen)
 
 Softwaredeveloper & Software Performance Analyst  
-IBM Z/OS und Linux.
+Os: Linux (Redhat und SLES), IBM Z/OS
 Performance Messung und Optimierung für IBM DB2, Apache Cassandra (NoSQL), MongoDB, PostgreSQL, MariaDB.  
-Os:  Linux (Redhat und SLES).  
 Programming: Python, fabric, Tkinter, Node.js, Ant, Shell Scripting (Bash).  
 DevOps: KVM-Virtualisation, Docker, Vagrant, Jenkins, Ansible.  
 Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
@@ -88,6 +87,7 @@ Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
 Softwareentwickler  
 Barcode Implementierung für Lufthansa NetLine/Ops++ (Cobris)  
 Programming: Perl, Oracle, MySQL  
+Os: Linux (Redhat)
 ```
 
 ```
@@ -95,8 +95,7 @@ Programming: Perl, Oracle, MySQL
 
 Entwicklung Tools & Web  
 System- und Web Programmierung   
-Programming: C#, Perl, PHP, C++, Java, JavaScript, ABAP  
-Web: PHP 5.6, JQuery, Bootstrap, HTML5, CSS, Apache, SOAP  
+Programming: C#, Perl, PHP, C++, Java, JavaScript
 Datenbanken: DB2, MySQL, Oracle, MsSQL  
 Tools: Eclipse, PHPStorm, Netweaver, Git, Visual Studio  
 ```
