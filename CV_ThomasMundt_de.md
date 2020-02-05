@@ -71,7 +71,7 @@ DevOps: Puppet, Jenkins, Git, Vault, Ansible, Vagrant
 
 
 ```
-01/2016 - 12/2016 IBM AG (Labor Böblingen)
+01/2016 - 12/2016 IBM AG (Böblingen)
 
 Softwaredeveloper & Software Performance Analyst  
 Os: Linux (Redhat und SLES), IBM Z/OS
