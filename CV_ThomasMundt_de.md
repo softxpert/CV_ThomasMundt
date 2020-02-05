@@ -34,7 +34,7 @@ Skills
 
 - **Shell Scripting**: `Bash`
 
-- **Programming Languages**: `Go`, `Python`, `C++` , `Java`, `C#`, `Perl`, `PHP`, `C++`
+- **Programming Languages**: `Go`, `Python`, `C++` , `Java`, `C#`, `Perl`, `C++`
 
 - **Databases**: `Cassandra`, `MongoDB`, `PostgreSQL`, `MariaDB`
 
