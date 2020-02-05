@@ -142,7 +142,7 @@ Technologien: C#, Perl, Pdf/A, C++ (Visual Studio 6), SQL-Server, PReS
 ```
 
 ```
-07/2006 – 12/2006	 Hamburger Sparkasse
+07/2006 – 12/2006 Hamburger Sparkasse
 Fremdwährungssystem  
 Entwicklung/Erweiterung eines Fremdwährungssystems  
 Systemanalytiker/Softwareentwickler  
@@ -160,7 +160,7 @@ Technologien: C#, Perl, PReS, SQL-Server
 ```
 
 ```
-06/2002 – 06/2003	Hamburgische Electricitäts-Werke AG
+06/2002 – 06/2003 Hamburgische Electricitäts-Werke AG
 Dokumentenmanagement  
 Design/Implementierung des Outputmanagement-Systems für das Dokumentenmanagement der HEW AG  
 Systemanalytiker/Softwareentwickler  
@@ -169,7 +169,7 @@ Technologien: C#, Perl, PReS, SQL-Server
 ```
 
 ```
-10/2001 – 01/2002	Intershop Communications AG 
+10/2001 – 01/2002 Intershop Communications AG 
 Datawarehouse (E-Commerce)  
 Design/Implementierung eines Datawarehouse-Systems  
 Systemanalytiker/Datenbankprogrammierer  
