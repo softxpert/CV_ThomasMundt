@@ -60,6 +60,7 @@ Cloud: Open Telekom Cloud (Openstack), AWS
 
 ```
 01/2017 - 06/2016  Nexinto GmbH
+
 DevOps Engineer
 Infrastrukture As Code with Puppet
 Projekts Media Saturn & Tchibo
@@ -71,6 +72,7 @@ DevOps: Puppet, Jenkins, Git, Vault, Ansible, Vagrant
 
 ```
 01/2016 - 12/2016 IBM AG
+
 Softwaredeveloper & Software Performance Analyst  
 IBM Z/OS und Linux.
 Performance Messung und Optimierung für IBM DB2, Apache Cassandra (NoSQL), MongoDB, PostgreSQL, MariaDB.  
@@ -82,6 +84,7 @@ Benchmarks: HammerDB, Octane Benchmark, cassandra-stress, sysbench
 
 ```
 10/2015 - 12/2015 Condor Flugdienst GmbH 
+
 Softwareentwickler  
 Barcode Implementierung für Lufthansa NetLine/Ops++ (Cobris)  
 Programming: Perl, Oracle, MySQL  
@@ -89,6 +92,7 @@ Programming: Perl, Oracle, MySQL
 
 ```
 11/2010 - 09/2015 SAP AG
+
 Entwicklung Tools & Web  
 System- und Web Programmierung   
 Programming: C#, Perl, PHP, C++, Java, JavaScript, ABAP  
@@ -99,6 +103,7 @@ Tools: Eclipse, PHPStorm, Netweaver, Git, Visual Studio
 
 ```
 05/2010 – 12/2010  CB HELPLINE
+
 Vertragsmanagement/CRM-System  
 Vertragsmanagement- und CRM/Akquise Software (Web)  
 Systemanalytiker/Webentwickler  
@@ -108,6 +113,7 @@ Programming: C#, ASP.Net, HTML, CSS, SQL-Server, IIS, JavaScript, Bootstrap
 
 ```
 01/2010 – 05/2010 Vattenfall Europe AG 
+
 Refactoring/Performanceoptimierung  
 Beratung über Methoden und Konzepte der Systemoptimierung eines Systems zur Formularaufbereitung im Bereich des Formularmanagements. Design und Refactoring von Systemkomponenten mit dem Ziel der Performance-Optimierung  
 Systemanalytiker, Softwareentwickler  
@@ -117,6 +123,7 @@ Technologien: .NET, C#, Perl, SQL-Server
 
 ```
 01/2009 – 12/2009 Vattenfall Europe AG   Elektronische Langzeitarchivierung  
+
 Konzeption, Planung und Entwicklung eines Archiv-Systems inkl. PDF/A und Signierung.  
 Systemanalytiker, Softwareentwickler  
 Analyse, Design und Implementierung  
@@ -125,6 +132,7 @@ Technologien: Perl, Pdf/A, Archiv, Compart Docbridge Mill, Java, C++
 
 ```
 01/2008 – 12/2008 Vattenfall Europe AG
+
 Elektronische Onlinerechnung  
 Konzeption, Planung und Entwicklung eines Systems welches den Kunden des Stromdienstleisters Vattenfall Europe eine Onlinerechnung per Internet zur Verfügung stellt.  
 Systemanalytiker, Softwareentwickler  
@@ -134,6 +142,7 @@ Technologien: C#, Java, C++, Perl, SQL-Server, Compart, SQL-Server, PReS
 
 ```
 01/2007 – 12/2007 Vattenfall Europe AG
+
 Outputmanagement/Erweiterung  
 Erweiterung/Entwicklung eines Outputmanagement-Systems für den Druckoutput des Vattenfall Konzerns.  
 Das System soll aus RDI-Daten (Raw Data Interface), die aus SAP R/3 Systemen generiert werden, druckbare AFP-Daten (Advanced Function Presentation) generieren. Die Druckdaten sollen außerdem sortiert und optimiert werden.  
@@ -144,6 +153,7 @@ Technologien: C#, Perl, Pdf/A, C++ (Visual Studio 6), SQL-Server, PReS
 
 ```
 07/2006 – 12/2006 Hamburger Sparkasse
+
 Fremdwährungssystem  
 Entwicklung/Erweiterung eines Fremdwährungssystems  
 Systemanalytiker/Softwareentwickler  
@@ -153,6 +163,7 @@ Technologien: Perl. Opics, Oracle
 
 ```
 06/2003 – 06/2005 Vattenfall Europe AG 
+
 Outputmanagement  
 Konzeption, Planung und Entwicklung eines Datenbanksystems zur Systemanalyse und Reporting eines Outputmanagement-Systems im Bereich des Dokumentenmanagements.  
 Systemanalytiker/Softwareentwickler  
@@ -162,6 +173,7 @@ Technologien: C#, Perl, PReS, SQL-Server
 
 ```
 06/2002 – 06/2003 Hamburgische Electricitäts-Werke AG
+
 Dokumentenmanagement  
 Design/Implementierung des Outputmanagement-Systems für das Dokumentenmanagement der HEW AG  
 Systemanalytiker/Softwareentwickler  
@@ -171,6 +183,7 @@ Technologien: C#, Perl, PReS, SQL-Server
 
 ```
 10/2001 – 01/2002 Intershop Communications AG 
+
 Datawarehouse (E-Commerce)  
 Design/Implementierung eines Datawarehouse-Systems  
 Systemanalytiker/Datenbankprogrammierer  
